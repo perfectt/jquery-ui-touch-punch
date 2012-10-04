@@ -1,0 +1,10 @@
+{
+  "name": "jquery-ui-touch-punch"
+, "repo": "perfectt/jquery-ui-touch-punch"
+, "description": "jQuery UI Touch Punch for component(1)"
+, "version": "0.0.1"
+, "dependencies": {
+    "perfectt/jquery-ui": "*"
+  }
+, "scripts": [ "index.js" ]
+}
